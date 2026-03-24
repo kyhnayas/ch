@@ -1,4 +1,4 @@
-import atimg1 from '/public/images/avukat/hasan_yasa.jpeg'
+import atimg1 from '/public/images/avukat/hasan_yasa1.jpeg'
 import atimg2 from '/public/images/avukat/cihad_ozturk.jpeg'
 import atimg3 from '/public/images/avukat/mehmet_akif_albayrak.jpeg'
 import atimg4 from '/public/images/avukat/seda_nur_aydin.jpeg'
