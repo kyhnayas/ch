@@ -11,6 +11,7 @@ import Attorney from '../../components/attorneys';
 import Newsletter from '../../components/Newsletter/Newsletter';
 import Scrollbar from '../../components/scrollbar/scrollbar';
 import Footer from '../../components/footer/Footer';
+import FunFact from '../../components/FunFact';
 
 const HomePage = () => {
     return (
