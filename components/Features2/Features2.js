@@ -2,7 +2,7 @@ import React from 'react'
 
 const Features2 = (props) => {
     return (
-        <div className="relative pt-[50px] pb-[30px] bg-no-repeat bg-cover bg-center z-10
+        <div className="relative pt-[50px] pb-[30px] bg-no-repeat bg-top bg-cover lg:bg-[length:100%_auto] bg-[#0f1115] z-10
                before:absolute before:left-0 before:top-0 before:w-full before:h-full before:bg-[rgba(15,15,15,.9)]  before:-z-10" style={{ backgroundImage: `url(${'/images/services/1.jpg'})` }}>
             <div className="wraper">
                 <div className="grid grid-cols-12 gap-3">

@@ -63,7 +63,7 @@ const Footer = (props) => {
                             <ul>
                                 <li className="relative mb-[8px] block text-white">İstiklal Mh. Muhsin Yazıcıoğlu Blv. No:88</li>
                                 <li className="relative mb-[8px] block text-white">D:11-12 KNN54 İş Mrkz. Serdivan / Sakarya</li>
-                                <li className="relative mb-[8px] block text-white">Gsm: +90 530 799 35 43 - +90 533 595 84 54</li>
+                                <li className="relative mb-[8px] block text-white">Gsm: +90 530 799 35 43 <br />+90 533 595 84 54</li>
                                 <li className="relative mb-[8px] block text-white">E-Posta: info@ch-hukuk.com</li>
                             </ul>
                         </div>

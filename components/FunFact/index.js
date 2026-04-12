@@ -30,7 +30,7 @@ const FunFact = (props) => {
 
     return (
 
-        <section className="relative z-1 bg-no-repeat bg-center bg-cover overflow-hidden pt-[100px] pb-[95px]" style={{ backgroundImage: `url(${'/images/counter/1.jpg'})` }}>
+        <section className="relative z-1 bg-no-repeat bg-top bg-cover lg:bg-[length:100%_auto] bg-[#0f1115] overflow-hidden pt-[100px] pb-[95px]" style={{ backgroundImage: `url(${'/images/counter/1.jpg'})` }}>
             <div className="wraper">
                 <div className="grid grid-cols-12 gap-3">
                     <div className="col-span-6 md:col-span-6 sm:col-span-12">

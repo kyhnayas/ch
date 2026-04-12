@@ -4,7 +4,7 @@ import ConsultingFrom from '../ConsultingFrom/ConsultingFrom'
 
 const ConsultingArea = (props) => {
     return (
-        <section className="relative bg-center bg-cover bg-no-repeat bg-fixed py-[100px] z-10 
+        <section className="relative bg-top bg-cover lg:bg-[length:100%_auto] bg-[#0f1115] bg-no-repeat bg-fixed py-[100px] z-10 
    before:content-[''] before:bg-[rgba(15,15,15,0.95)] before:w-full before:h-full before:absolute before:left-0 before:-z-10 before:top-0" style={{ backgroundImage: `url(${'/images/contact/1.jpg'})` }}>
             <div className="wraper">
                 <div className="grid grid-cols-12 gap-3">

@@ -27,8 +27,8 @@ const Hero = (props) => {
                     navigation
                 >
                     <SwiperSlide>
-                        <div className="slide-inner slide-bg-image h-[790px] lg:h-[500px] col:h-[450px]" style={{ backgroundImage: `url(${'/images/slider/slide-4.jpg'})` }}>
-                            <div className="slide  relative h-full bg-cover bg-no-repeat z-10  after:absolute after:content-[''] 
+                        <div className="slide-inner slide-bg-image h-[790px] lg:h-[500px] col:h-[450px] bg-[#0f1115]" style={{ backgroundImage: `url(${'/images/slider/slide-4.jpg'})` }}>
+                            <div className="slide  relative h-full bg-cover lg:bg-[length:100%_auto] bg-top bg-no-repeat z-10  after:absolute after:content-[''] 
             after:w-full after:h-full after:left-0 after:top-0 after:opacity-70 after:z-10">
                                 <div className="wraper">
                                     <div className="slide-caption w-[700px] mt-[245px] lg:mt-[110px] md:mt-[120px] col:mt-[100px] absolute top-0 z-20">
@@ -53,8 +53,8 @@ const Hero = (props) => {
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
-                        <div className="slide-inner slide-bg-image h-[790px] lg:h-[500px] col:h-[450px]" style={{ backgroundImage: `url(${'/images/slider/slide-5.jpg'})` }}>
-                            <div className="slide  relative h-full bg-cover bg-no-repeat z-10  after:absolute after:content-[''] 
+                        <div className="slide-inner slide-bg-image h-[790px] lg:h-[500px] col:h-[450px] bg-[#0f1115]" style={{ backgroundImage: `url(${'/images/slider/slide-5.jpg'})` }}>
+                            <div className="slide  relative h-full bg-cover lg:bg-[length:100%_auto] bg-top bg-no-repeat z-10  after:absolute after:content-[''] 
             after:w-full after:h-full after:left-0 after:top-0 after:opacity-70 after:z-10">
                                 <div className="wraper">
                                     <div className="slide-caption w-[700px] mt-[245px] lg:mt-[110px] md:mt-[120px] col:mt-[100px] absolute top-0 z-20">

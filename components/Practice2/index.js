@@ -11,7 +11,7 @@ const Practice2 = (props) => {
 
     return (
 
-        <section className="relative bg-no-repeat bg-cover bg-center z-10 pt-[95px] pb-[95px] md:pb-[75px]
+        <section className="relative bg-no-repeat bg-top bg-cover lg:bg-[length:100%_auto] bg-[#0f1115] z-10 pt-[95px] pb-[95px] md:pb-[75px]
           before:absolute before:left-0 before:top-0 before:w-full before:h-full before:bg-[rgba(21,26,48,.66)]  before:-z-10 " style={{ backgroundImage: `url(${'/images/practice/1.jpg'})` }}>
             <div className="wraper">
                 <div className="col-span-12 text-center">
