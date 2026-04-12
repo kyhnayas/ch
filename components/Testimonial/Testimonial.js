@@ -2,10 +2,10 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import ts1 from '/public/images/testimonial/2.png'
-import ts2 from '/public/images/testimonial/2.png'
-
-import tright from '/public/images/testimonial/1.png'
+import ts1 from '../../public/images/testimonial/2.png'
+import ts2 from '../../public/images/testimonial/2.png'
+import ts3 from '../../public/images/testimonial/2.png'
+import tright from '../../public/images/testimonial/1.png'
 import Image from "next/image";
 
 

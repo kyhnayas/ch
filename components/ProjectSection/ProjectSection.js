@@ -3,8 +3,8 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Projects from '../../api/project'
-import simg1 from '/public/images/project/line-1.png'
-import simg2 from '/public/images/project/line-2.png'
+import simg1 from '../../public/images/project/line-1.png'
+import simg2 from '../../public/images/project/line-2.png'
 import ProjectSingle from '../ProjectSingle/ProjectSingle';
 
 const settings = {

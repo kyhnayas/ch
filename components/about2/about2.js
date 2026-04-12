@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import ModalVideo from 'react-modal-video'
-import abImg from '/public/images/about/1.jpg'
+import abImg from '../../public/images/about/1.jpg'
 import Link from "next/link";
 import Image from 'next/image';
 
