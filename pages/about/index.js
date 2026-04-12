@@ -15,13 +15,14 @@ const AboutPage = () => {
     return (
         <Fragment>
             <Navbar2 />
-            <PageTitle pageTitle={'About Us'} pagesub={'About'} />
+            <PageTitle pageTitle={'Hakkımızda'} pagesub={'Hakkımızda'} />
+            <Attorney />
             <Features />
             <About2 />
             <Practice2 />
             <Testimonial tClass={'pt-[100px] sm:pt-[20px]'} />
             <FunFact2 />
-            <Attorney />
+
             <Newsletter />
             <Footer />
             <Scrollbar />

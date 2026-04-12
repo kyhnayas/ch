@@ -32,9 +32,9 @@ const Hero2 = () => {
             after:w-full after:h-full after:left-0 after:top-0 after:opacity-70 after:z-10">
                                 <div className="wraper">
                                     <div className="slide-caption w-[700px] mt-[285px]  md:mt-[120px] col:mt-[100px] absolute top-0 z-20">
-                                        <p className="text-white text-[20px] font-light col:text-[18px]">The Most Talented Law Frim</p>
+                                        <p className="text-white text-[20px] font-light col:text-[18px]">Uzman Hukuk Bürosu</p>
                                         <h2 className="text-white text-[60px] leading-[90px] lg:text-[42px] lg:leading-[56px] 
-                     col:text-[25px] col:leading-[35px] font-normal my-[33px] md:my-[20px]"><span>We Fight For Your Justice</span> <br /> <span>As Like A Friend.</span></h2>
+                     col:text-[25px] col:leading-[35px] font-normal my-[33px] md:my-[20px]"><span>Adaletiniz İçin</span> <br /> <span>Yanınızdayız.</span></h2>
                                         <div className="btns">
                                             <div className="btn-style">
                                                 <Link onClick={ClickHandler} href="/contact" className="bg-[#e5e7eb] relative cursor-pointer text-[16px]
@@ -43,7 +43,7 @@ const Hero2 = () => {
                             col:mb-[5px] col:mt-[15px] col:text-[15px] col:px-[18px] col:py-[8px] 
                             before:absolute before:content-[''] before:w-[85px] before:h-[2px] before:left-[-60px]
                              before:top-[50%]  before:bg-white before:transform before:translate-y-[-50%] 
-                             before:transition-all hover:before:left-[-95px] md:before:hidden">Contact us now</Link>
+                             before:transition-all hover:before:left-[-95px] md:before:hidden">Hemen Ulaşın</Link>
                                             </div>
                                         </div>
                                     </div>
@@ -57,9 +57,9 @@ const Hero2 = () => {
             after:w-full after:h-full after:left-0 after:top-0 after:opacity-70 after:z-10">
                                 <div className="wraper">
                                     <div className="slide-caption w-[700px] mt-[285px]  md:mt-[120px] col:mt-[100px] absolute top-0 z-20">
-                                        <p className="text-white text-[20px] font-light col:text-[18px]">The Most Talented Law Frim</p>
+                                        <p className="text-white text-[20px] font-light col:text-[18px]">Uzman Hukuk Bürosu</p>
                                         <h2 className="text-white text-[60px] leading-[90px] lg:text-[42px] lg:leading-[56px] 
-                     col:text-[25px] col:leading-[35px] font-normal my-[33px] md:my-[20px]"><span>We Fight For Your Justice</span> <br /> <span>As Like A Friend.</span></h2>
+                     col:text-[25px] col:leading-[35px] font-normal my-[33px] md:my-[20px]"><span>Adaletiniz İçin</span> <br /> <span>Yanınızdayız.</span></h2>
                                         <div className="btns">
                                             <div className="btn-style">
                                                 <Link onClick={ClickHandler} href="/contact" className="bg-[#e5e7eb] relative cursor-pointer text-[16px]
@@ -68,7 +68,7 @@ const Hero2 = () => {
                             col:mb-[5px] col:mt-[15px] col:text-[15px] col:px-[18px] col:py-[8px] 
                             before:absolute before:content-[''] before:w-[85px] before:h-[2px] before:left-[-60px]
                              before:top-[50%]  before:bg-white before:transform before:translate-y-[-50%] 
-                             before:transition-all hover:before:left-[-95px] md:before:hidden">Contact us now</Link>
+                             before:transition-all hover:before:left-[-95px] md:before:hidden">Hemen Ulaşın</Link>
                                             </div>
                                         </div>
                                     </div>

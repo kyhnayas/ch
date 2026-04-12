@@ -7,7 +7,6 @@ import Testimonial from '../../components/Testimonial/Testimonial';
 import Newsletter from '../../components/Newsletter/Newsletter';
 import Footer from '../../components/footer/Footer';
 import Scrollbar from '../../components/scrollbar/scrollbar'
-import Pricing from '../../components/Pricing/Pricing';
 
 const PracticePage = () => {
 
@@ -18,7 +17,6 @@ const PracticePage = () => {
             <Features2 />
             <Practice3 />
             <Testimonial tClass={'pt-[100px] sm:pt-[20px]'} />
-            <Pricing />
             <Newsletter />
             <Footer />
             <Scrollbar />

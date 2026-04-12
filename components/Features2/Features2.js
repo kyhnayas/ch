@@ -23,7 +23,7 @@ const Features2 = (props) => {
                                 <i className="fi flaticon-scale text-[60px] col:text-[50px] col:leading-[55px] text-[#e5e7eb]"></i>
                             </div>
                             <div className="pl-[24px]">
-                                <span className="text-[#666666] text-[16px] font-normal">Ücretsiz</span>
+                                <span className="text-[#666666] text-[16px] font-normal">Hızlıca</span>
                                 <h3 className="text-white text-[27px] col:text-[22px] font-medium">Uzman Görüşü Alın</h3>
                             </div>
                         </div>

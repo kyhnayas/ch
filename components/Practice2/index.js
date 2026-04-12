@@ -16,8 +16,8 @@ const Practice2 = (props) => {
             <div className="wraper">
                 <div className="col-span-12 text-center">
                     <div className="mb-[60px]">
-                        <span className="text-[16px] text-[#666666]">Area Of Practice</span>
-                        <h2 className=" text-[36px] md:text-[26px] font-medium text-white pb-[20px] relative before:absolute before:content-[''] before:left-[50%] before:bottom-0 before:transform before:-translate-x-1/2 before:w-[60px] before:h-[3px] before:bg-[#e5e7eb]">How Can We Help You</h2>
+                        <span className="text-[16px] text-[#666666]">Hizmetlerimiz</span>
+                        <h2 className=" text-[36px] md:text-[26px] font-medium text-white pb-[20px] relative before:absolute before:content-[''] before:left-[50%] before:bottom-0 before:transform before:-translate-x-1/2 before:w-[60px] before:h-[3px] before:bg-[#e5e7eb]">Nasıl Yardımcı Olabiliriz?</h2>
                     </div>
                 </div>
                 <div className="grid grid-cols-12 gap-5">

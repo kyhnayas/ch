@@ -15,10 +15,10 @@ const Practice3 = (props) => {
             <div className="wraper">
                 <div className="col-span-12 text-center">
                     <div className="mb-[60px]">
-                        <span className="text-[16px] text-[#666666]">Çalışma Alanlarımız</span>
+                        <span className="text-[16px] text-[#666666]">Hizmetlerimiz</span>
                         <h2 className=" text-[36px] md:text-[26px] font-medium text-[#333] pb-[20px] relative before:absolute before:content-['']
              before:left-[50%] before:bottom-0 before:transform before:-translate-x-1/2 before:w-[60px] before:h-[3px]
-              before:bg-[#cccccc]">Size Nasıl Yardımcı Olabiliriz?</h2>
+              before:bg-[#cccccc]">Nasıl Yardımcı Olabiliriz?</h2>
                     </div>
                 </div>
                 <div className="grid grid-cols-12 gap-3">

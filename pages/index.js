@@ -4,9 +4,7 @@ import Hero from '../components/hero/hero';
 import Features from '../components/Features/Features';
 import About from '../components/about/about';
 import Practice from '../components/Practice';
-import CaseStudies from '../components/CaseStudies/CaseStudies';
 import ConsultingArea from '../components/ConsultingArea/ConsultingArea';
-import Attorney from '../components/attorneys';
 import FunFact from '../components/FunFact';
 import Newsletter from '../components/Newsletter/Newsletter';
 import Scrollbar from '../components/scrollbar/scrollbar';
@@ -21,9 +19,7 @@ const HomePage = ({ homeData }) => {
             <Features />
             <About data={homeData} />
             <Practice />
-            <CaseStudies />
             <ConsultingArea />
-            <Attorney />
             <FunFact />
             <Newsletter />
             <Footer />

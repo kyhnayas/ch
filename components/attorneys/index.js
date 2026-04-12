@@ -72,7 +72,7 @@ const Attorney = (props) => {
                 <div className="col-span-12 text-center">
                     <div className="mb-[60px]">
                         <span className="text-[16px] text-[#666666]">Ekibimizle Tanışın</span>
-                        <h2 className=" text-[36px] md:text-[26px] font-medium text-[#333] pb-[20px] relative before:absolute before:content-[''] before:left-[50%] before:bottom-0 before:transform before:-translate-x-1/2 before:w-[60px] before:h-[3px] before:bg-[#e5e7eb]">Uzman Avukat Kadromuz</h2>
+                        <h2 className=" text-[36px] md:text-[26px] font-medium text-[#333] pb-[20px] relative before:absolute before:content-[''] before:left-[50%] before:bottom-0 before:transform before:-translate-x-1/2 before:w-[60px] before:h-[3px] before:bg-[#e5e7eb]">EKİBİMİZ</h2>
                     </div>
                 </div>
                 <div className="team-slider relative">

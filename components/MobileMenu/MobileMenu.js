@@ -21,11 +21,6 @@ const menus = [
         link: '/practice',
     },
     {
-        id: 4,
-        title: 'Emsal Kararlar',
-        link: '/case-stadies',
-    },
-    {
         id: 5,
         title: 'İletişim',
         link: '/contact',

@@ -21,7 +21,7 @@ const Contactpage = () => {
                                             </div>
                                         </div>
                                         <h2 className="text-[25px] text-[#ffffff] font-medium my-[20px]">Adres</h2>
-                                        <p className="text-[#666] text-[16px] leading-[22px]">İstiklal mh. Muhsin Yazıcıoğlu blv. No:88 D:11-12 KNN54 İş mrkz. Serdivan Sakarya</p>
+                                        <p className="text-[#666] text-[16px] leading-[22px]">İstiklal Mh. Muhsin Yazıcıoğlu Blv. No:88 D:11-12 KNN54 İş Mrkz. Serdivan Sakarya</p>
                                     </div>
                                 </div>
                                 <div className="col-span-4 md:col-span-6 sm:col-span-12 md:mb-7">
@@ -43,8 +43,8 @@ const Contactpage = () => {
                                             </div>
                                         </div>
                                         <h2 className="text-[25px] text-[#ffffff] font-medium my-[20px]">Bizi Arayın</h2>
-                                        <p className="text-[#666] text-[16px] leading-[22px]">0530 799 35 43</p>
-                                        <p className="text-[#666] text-[16px] leading-[22px]">0533 595 84 54</p>
+                                        <p className="text-[#666] text-[16px] leading-[22px]">+90 530 799 35 43</p>
+                                        <p className="text-[#666] text-[16px] leading-[22px]">+90 533 595 84 54</p>
                                     </div>
                                 </div>
                             </div>
