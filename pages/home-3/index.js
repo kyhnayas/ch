@@ -11,6 +11,7 @@ import ConsultingArea from '../../components/ConsultingArea/ConsultingArea';
 import Attorney from '../../components/attorneys';
 import Newsletter from '../../components/Newsletter/Newsletter';
 import Footer from '../../components/footer/Footer';
+import FunFact from '../../components/FunFact';
 
 const HomePage = () => {
     return (
