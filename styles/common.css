@@ -1495,6 +1495,28 @@ All this is done for any sub-level being entered.
 	z-index: 19;
 }
 
+/* Hero: img tabanlı yapıda swiper-wrapper yüksekliği img'ye göre ayarlanır */
+.hero .swiper,
+.hero .swiper-wrapper,
+.hero .swiper-slide {
+	height: auto !important;
+}
+
+.hero .slide-inner img {
+	display: block;
+	width: 100%;
+	height: auto;
+	/* Mobilde minimum bir görünürlük */
+	min-height: 280px;
+}
+
+/* Navigasyon oklarını img tabanlı yapıda ortada tut */
+.hero .swiper-button-prev,
+.hero .swiper-button-next {
+	top: 50%;
+	transform: translateY(-50%);
+}
+
 
 
 .hero .slide .slider-bg {
