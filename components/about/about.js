@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from "next/link";
-import about from '../../public/images/about/2.JPG'
+import about from '../../public/images/about/2.jpg'
 import sign from '../../public/images/about/1.png'
 import Image from 'next/image';
 
